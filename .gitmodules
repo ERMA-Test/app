@@ -1,0 +1,12 @@
+[submodule "components/component1"]
+	path = components/component1
+	url = https://github.com/ERMA-Test/component1.git
+[submodule "components/component2"]
+	path = components/component2
+	url = https://github.com/ERMA-Test/component2.git
+[submodule "plugins/plugin1"]
+	path = plugins/plugin1
+	url = https://github.com/ERMA-Test/plugin1.git
+[submodule "plugins/plugin2"]
+	path = plugins/plugin2
+	url = https://github.com/ERMA-Test/plugin2.git
